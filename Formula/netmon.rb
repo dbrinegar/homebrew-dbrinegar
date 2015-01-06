@@ -5,6 +5,6 @@ class Netmon < Formula
   url 'https://github.com/dbrinegar/netmon.git', :tag =>'v0.0.2'
 
   def install
-    bin.install "bin/*"
+    bin.install "bin"
   end
 end
