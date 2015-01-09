@@ -1,5 +1,5 @@
-homebrew-utils
-==============
+homebrew-dbrinegar
+==================
 
 my personal homebrew tap
 
