@@ -2,7 +2,7 @@ require 'formula'
 
 class Gitutils < Formula
   homepage 'https://github.com/dbrinegar/gitutils'
-  url 'https://github.com/dbrinegar/gitutils.git', :tag =>'v0.0.2'
+  url 'https://github.com/dbrinegar/gitutils.git', :tag =>'v0.0.3'
 
   def install
     bin.install Dir["bin/*"]
